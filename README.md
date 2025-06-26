@@ -28,7 +28,7 @@ const developer = {
     "MySQL",
     "Git"
   ],
-  passion: "С тёмным пивом в светлое будущее"
+  passion: "Remember who you are"
 };
 
 console.log(developer);

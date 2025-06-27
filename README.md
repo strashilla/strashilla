@@ -18,16 +18,12 @@
 const developer = {
   name: "strashila",
   role: "Frontend-разработчик",
-  skills: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Tailwind CSS",
-    "PHP",
-    "MySQL",
-    "Git"
-  ],
+  skills: {
+    "Frontend": ["HTML", "CSS", "JavaScript", "React"],
+    "Styling": ["Tailwind CSS"],
+    "Backend": ["PHP", "MySQL"],
+    "Tools": ["Git"]
+  },
   passion: "Remember who you are"
 };
 

@@ -21,7 +21,7 @@ const developer = {
   skills: {
     "Frontend": ["HTML", "CSS", "JavaScript", "React"],
     "Styling": ["Tailwind CSS"],
-    "Backend": ["PHP", "MySQL", "SQLite],
+    "Backend": ["PHP", "MySQL", "SQLite"],
     "Tools": ["Git"]
   },
   passion: "Remember who you are"

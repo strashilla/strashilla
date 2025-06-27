@@ -21,7 +21,7 @@ const developer = {
   skills: {
     "Frontend": ["HTML", "CSS", "JavaScript", "React"],
     "Styling": ["Tailwind CSS"],
-    "Backend": ["PHP", "MySQL"],
+    "Backend": ["PHP", "MySQL", "SQLite],
     "Tools": ["Git"]
   },
   passion: "Remember who you are"
@@ -30,7 +30,7 @@ const developer = {
 console.log(developer);
 ```
 🛠️ Технологический стек
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,git" alt="Технологический стек" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,sqlite,git" alt="Технологический стек" /> </p>
 📈 Статистика GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strashilla&layout=compact&hide_border=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Популярные языки" />

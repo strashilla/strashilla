@@ -36,7 +36,7 @@ console.log(developer);
   <img src="https://github-readme-stats-one-flax-12.vercel.app/api/top-langs/?username=strashilla&layout=compact&hide_border=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Популярные языки" />
   <img src="https://github-readme-stats-one-flax-12.vercel.app/api?username=strashilla&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Статистика GitHub" />
 </p>
-🔥 Ежедневная активность
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=strashilla&theme=dark&hide_border=true&background=0D1117&stroke=FFAE00&ring=FFAE00&fire=FFAE00&currStreakLabel=FFAE00" alt="Полоса активности" /> </p>
+👁️‍🗨️ Посещения профиля
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=strashilla&style=flat-square&color=FFAE00&label=PROFILE+VIEWS" alt="Счетчик посещений" /> </p>
 🌌 Контакты
 <p align="center"> <a href="https://t.me/betmaverickk" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=1a1a1a&labelColor=FFAE00" alt="Telegram" /> </a> </p> <p align="center">

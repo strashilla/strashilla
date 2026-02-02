@@ -33,12 +33,12 @@ console.log(developer);
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,sqlite,git,1C" alt="Технологический стек" /> </p>
 📈 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats-one-flax-12.vercel.app/top-langs/?username=strashila&layout=compact&hide_border=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Популярные языки" />
-  <img src="https://github-readme-stats-one-flax-12.vercel.app/api?username=strashila&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats-one-flax-12.vercel.app/api/top-langs/?username=strashilla&layout=compact&hide_border=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Популярные языки" />
+  <img src="https://github-readme-stats-one-flax-12.vercel.app/api?username=strashilla&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Статистика GitHub" />
 </p>
 🏆 Достижения
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=strashila&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Трофеи" />
+  <img src="https://github-profile-trophy.vercel.app/?username=strashilla&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Трофеи" />
 </p>
 🌌 Контакты
 <p align="center"> <a href="https://t.me/betmaverickk" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=1a1a1a&labelColor=FFAE00" alt="Telegram" /> </a> </p> <p align="center">

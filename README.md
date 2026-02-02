@@ -34,7 +34,7 @@ console.log(developer);
 📈 Статистика GitHub
 <p align="center">
   <img src="https://github-readme-stats-one-flax-12.vercel.app/top-langs/?username=strashila&layout=compact&hide_border=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Популярные языки" />
-  <img src="https://github-readme-stats.vercel.app/api?username=strashila&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats-one-flax-12.vercel.app/api?username=strashila&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Статистика GitHub" />
 </p>
 🏆 Достижения
 <p align="center">
